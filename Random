@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Cidade Grande Roleplay | Regras RP</title>
+  <style>
+    body {
+      background-color: #0f0f0f;
+      color: #e5e5e5;
+      font-family: "Poppins", sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #1a1a1a;
+      text-align: center;
+      padding: 20px;
+      border-bottom: 2px solid #ff4444;
+    }
+    header h1 {
+      color: #ff4444;
+      margin: 0;
+    }
+    nav {
+      text-align: center;
+      margin-top: 10px;
+    }
+    nav a {
+      color: #fff;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav a:hover {
+      color: #ff4444;
+    }
+    section {
+      padding: 20px;
+      max-width: 1000px;
+      margin: 0 auto;
+      background-color: #181818;
+      border-radius: 10px;
+      margin-top: 20px;
+    }
+    h2 {
+      color: #ff4444;
+      border-bottom: 1px solid #ff4444;
+      padding-bottom: 5px;
+    }
+    ul {
+      list-style: none;
+      padding-left: 10px;
+    }
+    ul li {
+      margin-bottom: 10px;
+    }
+    footer {
+      background-color: #1a1a1a;
+      text-align: center;
+      padding: 15px;
+      margin-top: 30px;
+      border-top: 2px solid #ff4444;
+    }
+    footer a {
+      color: #ff4444;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Cidade Grande Roleplay</h1>
+    <p>Regras de RP, Códigos Policiais e de Organizações</p>
+    <nav>
+      <a href="#rp">Regras de RP</a>
+      <a href="#codigos">Códigos P e Q</a>
+      <a href="#policial">Regras Policiais</a>
+      <a href="#organizacao">Regras de Organizações</a>
+    </nav>
+  </header>
+
+  <section id="rp">
+    <h2>📜 Regras Gerais de RP</h2>
+    <ul>
+      <li>1️⃣ Proibido Anti-RP (ações sem sentido no contexto do jogo).</li>
+      <li>2️⃣ Proibido Power Gaming (fazer ações impossíveis na vida real).</li>
+      <li>3️⃣ Proibido Meta Gaming (usar informações fora do jogo no RP).</li>
+      <li>4️⃣ Proibido RDM (matar sem motivo ou sem RP).</li>
+      <li>5️⃣ Proibido VDM (atropelar intencionalmente pessoas sem motivo RP).</li>
+      <li>6️⃣ Proibido falar fora de contexto em situações de RP (usar /ooc apenas quando necessário).</li>
+      <li>7️⃣ É obrigatório valorizar a vida — "Value Your Life" (VYL).</li>
+      <li>8️⃣ Respeite todos os jogadores e membros da staff.</li>
+    </ul>
+  </section>
+
+  <section id="codigos">
+    <h2>📻 Códigos P e Q</h2>
+    <h3>🅿️ Códigos P (Policiais)</h3>
+    <ul>
+      <li>P-01 ➜ Local seguro.</li>
+      <li>P-02 ➜ Local perigoso.</li>
+      <li>P-03 ➜ Suspeito armado.</li>
+      <li>P-04 ➜ Tiroteio em andamento.</li>
+      <li>P-05 ➜ Apoio solicitado.</li>
+      <li>P-06 ➜ Prisão em andamento.</li>
+      <li>P-07 ➜ Viatura danificada.</li>
+      <li>P-08 ➜ Reforço imediato.</li>
+      <li>P-09 ➜ Suspeito em fuga.</li>
+      <li>P-10 ➜ Área limpa.</li>
+    </ul>
+
+    <h3>🔠 Códigos Q (Comunicação)</h3>
+    <ul>
+      <li>QAP ➜ Na escuta.</li>
+      <li>QSL ➜ Entendido.</li>
+      <li>QTH ➜ Localização.</li>
+      <li>QRR ➜ Preciso de ajuda urgente.</li>
+      <li>QRV ➜ Pronto para atender.</li>
+      <li>QRT ➜ Encerrando comunicação.</li>
+      <li>QRA ➜ Nome do operador.</li>
+      <li>QRTT ➜ Situação resolvida.</li>
+    </ul>
+  </section>
+
+  <section id="policial">
+    <h2>👮 Regras Policiais</h2>
+    <ul>
+      <li>1️⃣ Sempre agir dentro do código de conduta da polícia.</li>
+      <li>2️⃣ Não usar poder de polícia para benefício próprio.</li>
+      <li>3️⃣ Proibido abuso de autoridade.</li>
+      <li>4️⃣ É obrigatório o uso do uniforme em serviço.</li>
+      <li>5️⃣ Todas as abordagens devem ter justificativa RP.</li>
+      <li>6️⃣ O uso de força letal só é permitido quando o suspeito oferece risco à vida.</li>
+      <li>7️⃣ Respeitar hierarquia e ordens superiores.</li>
+      <li>8️⃣ Reportar qualquer ação fora do padrão à corregedoria.</li>
+    </ul>
+  </section>
+
+  <section id="organizacao">
+    <h2>💀 Regras de Organizações (Facções / Máfias)</h2>
+    <ul>
+      <li>1️⃣ Proibido recrutar sem autorização da liderança.</li>
+      <li>2️⃣ É obrigatório manter a história da organização coerente.</li>
+      <li>3️⃣ Não cometer crimes aleatórios sem motivo RP.</li>
+      <li>4️⃣ Não fazer Anti-RP em guerras ou confrontos.</li>
+      <li>5️⃣ Evite exposição pública da organização.</li>
+      <li>6️⃣ Proibido trair a facção sem contexto RP bem estruturado.</li>
+      <li>7️⃣ As guerras devem ser aprovadas pela administração do servidor.</li>
+      <li>8️⃣ Respeitar as áreas de domínio definidas.</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>© 2025 Cidade Grande Roleplay — Todos os direitos reservados.</p>
+    <p>💬 <a href="https://discord.gg/egA3rs6Hkz" target="_blank">Entre no nosso Discord</a></p>
+  </footer>
+
+</body>
+</html>
